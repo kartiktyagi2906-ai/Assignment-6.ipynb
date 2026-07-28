@@ -1,15 +1,15 @@
 # AI-ML-Assignment-6
 Weather Condition Classification using Support Vector Machine (SVM) and Open-Meteo API
 
-**Name:** Prakhar Bhardwaj  
+Name: Kartik Tyagi
 
-**Registration Number:** 23MEI10051 
+Registration Number: 23BAI10360
 
-**Application Number:** IN26011412
+Application Number: IN26010566
 
-**Batch Number:** 1A
+Batch Number: 1A
 
-**Email ID:** prakhar.23mei10051@vitbhopal.ac.in 
+Email ID: kartik.23bai10360@vitbhopal.ac.in
 
 ## Objective
 The objective of this project is to build an SVM classification model using an RBF kernel to accurately classify weather conditions as 'Warm' ($\ge 25^\circ\text{C}$) or 'Cool' ($< 25^\circ\text{C}$) based on hourly meteorological features fetched live from the Open-Meteo API[cite: 2].
